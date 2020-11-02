@@ -1,0 +1,17 @@
+#container {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #7e3200;
+    border-radius: 1rem;
+    height: 83vh;
+    position: relative;
+}
+
+.beep {
+    background-color: #682600;
+    border-radius: 0.5rem;
+    height: 3rem;
+    width: 5rem;
+    border: none;
+    color: white;
+}
