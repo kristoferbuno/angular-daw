@@ -1,0 +1,19 @@
+{
+  "name": "angular-daw",
+  "version": "1.0.0",
+  "description": "a (very) simple daw that operates on the web!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferbuno/angular-daw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristoferbuno/angular-daw/issues"
+  },
+  "homepage": "https://github.com/kristoferbuno/angular-daw#readme"
+}
